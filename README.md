@@ -6,12 +6,12 @@
 ## Hacks
 
 ![Windows Screen](assets/windowsTray.png)
-> Os hacks podem ser ativados e desativados pelo menu na barra do windows
+> Os hacks podem ser ativados e desativados pelo menu na barra do Windows
 
-Os hacks adicionados são:
- - Mutar Audio
- - Click infinido
- - Click no goldem cookie altomatico
+  Os hacks adicionados são:
+  - Mutar Áudio
+  - Click infinito
+  - Click no golden cookie automático
 
 ---
 # Author
