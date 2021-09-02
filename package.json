@@ -1,0 +1,14 @@
+{
+  "name": "cookie_clicker_hacks",
+  "version": "1.0.0",
+  "main": "src/main/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager . Cookie_Clicker --icon=assets/cookie.ico"
+  },
+  "devDependencies": {
+    "electron": "^14.0.0",
+    "electron-packager": "^15.3.0"
+  }
+}
